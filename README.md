@@ -35,7 +35,7 @@ Early testing helps identify defects during the design or requirement phase, whi
 🌟 Bonus: Real-World Example
 When building a login system, static testing might catch a missing password validation rule during a code review. Dynamic testing could then simulate user input to check how the system handles invalid logins.
 
-Tools Mentioned (Optional):
+Tools Mentioned :
 
 VS Code for editing
 
